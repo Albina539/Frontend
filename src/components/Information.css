@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+
+.maininfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.list {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.txt {
+  margin-top: 15px;
+}
+
+.binf {
+  margin: 10px;
+  margin-top: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
